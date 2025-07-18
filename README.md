@@ -88,7 +88,7 @@ You can modify the list of test functions or add your own custom objective funct
 Run the script again to include your function in the optimization pipeline.
 ## Acknowledgements
 
-This project was developed as part of my final-year coursework during the 4th year of my undergraduate studies in Computer Science.
+This project was developed as part of my final-year coursework during the 4th year of my undergraduate studies in informatics and telecommunications.
 
 I would like to express my sincere gratitude to my professor for his guidance, support, and valuable feedback throughout the development of this work. His input was instrumental in refining both the implementation and the theoretical approach.
 
@@ -105,4 +105,5 @@ informatics and telecommunications Student
 
 GitHub: psarrosfilippos
 
-[README.md](https://github.com/user-attachments/files/21315293/README.md)
+[README.md](https://github.com/user-attachments/files/21316455/README.md)[Uploading README.md…]()
+
