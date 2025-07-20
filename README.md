@@ -42,8 +42,8 @@ The implementation is written in Python using NumPy, and demonstrates an efficie
 **1. Clone the repository or download the** **`.py` file:**
 
     bash
-    git clone https://github.com/your-username/optimization-algorithms.git
-    cd optimization-algorithms
+    git clone https://github.com/your-username/optimization.git
+    cd optimization
 
 **2. Install dependencies (only NumPy is required):**
 
@@ -107,3 +107,5 @@ GitHub: psarrosfilippos
 
 [README.md](https://github.com/user-attachments/files/21316455/README.md)
 
+
+[README.md](https://github.com/user-attachments/files/21332394/README.md)
