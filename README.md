@@ -105,7 +105,4 @@ informatics and telecommunications Student
 
 GitHub: psarrosfilippos
 
-[README.md](https://github.com/user-attachments/files/21316455/README.md)
-
-
 [README.md](https://github.com/user-attachments/files/21332394/README.md)
