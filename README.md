@@ -1,4 +1,4 @@
-## Function Minimization via GA and Gradient Descent
+[README.md](https://github.com/user-attachments/files/21339624/README.md)[## Function Minimization via GA and Gradient Descent
 
 This project implements a hybrid optimization framework that combines a Genetic Algorithm (GA) with Gradient Descent (GD) for solving continuous unconstrained optimization problems. It supports multiple benchmark functions including Sphere, Sum of Squares, Matyas, Exponential Decay, and Booth functions. The GA uses a PSO-inspired mutation strategy to enhance exploration, while GD refines the best-found solution locally.
 
@@ -41,18 +41,15 @@ The implementation is written in Python using NumPy, and demonstrates an efficie
 
 **1. Clone the repository or download the** **`.py` file:**
 
-    bash
     git clone https://github.com/your-username/optimization.git
     cd optimization
 
 **2. Install dependencies (only NumPy is required):**
 
-    bash
     pip install numpy
 
 **3. Run the script to test all included optimization functions:**
 
-    bash
     python optimization.py
 
 **4. Observe the results printed in the terminal, showing:**
@@ -105,4 +102,4 @@ informatics and telecommunications Student
 
 GitHub: psarrosfilippos
 
-[README.md](https://github.com/user-attachments/files/21332394/README.md)
+[README.md](https://github.com/user-attachments/files/21316455/README.md)
