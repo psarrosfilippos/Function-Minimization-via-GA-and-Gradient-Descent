@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/21339624/README.md)[## Function Minimization via GA and Gradient Descent
+## Function Minimization via GA and Gradient Descent
 
 This project implements a hybrid optimization framework that combines a Genetic Algorithm (GA) with Gradient Descent (GD) for solving continuous unconstrained optimization problems. It supports multiple benchmark functions including Sphere, Sum of Squares, Matyas, Exponential Decay, and Booth functions. The GA uses a PSO-inspired mutation strategy to enhance exploration, while GD refines the best-found solution locally.
 
@@ -102,4 +102,4 @@ informatics and telecommunications Student
 
 GitHub: psarrosfilippos
 
-[README.md](https://github.com/user-attachments/files/21316455/README.md)
+[README.md](https://github.com/user-attachments/files/21339624/README.md)
